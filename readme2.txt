@@ -3,3 +3,4 @@ Git是一个免费软件。
 我爱git
 我爱java
 我爱php
+我爱js
